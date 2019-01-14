@@ -1,0 +1,6 @@
+authors = ["Josh Day <emailjoshday@gmail.com>"]
+name = "OnlineML"
+uuid = "5062ce52-1833-11e9-22fa-bf63677d24e3"
+version = "0.1.0"
+
+[deps]
